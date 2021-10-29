@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="nl" >
+  <head>
+    <meta charset="utf-8">
+    <title>wandelsportvereniging Kinderdijk - {{ page.title }}</title>
+
+    <base href="/" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Welkom op de website van w.s.v. Kinderdijk. - wandel­sport­vereniging Kinderdijk" /><meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="stylesheet" type="text/css" media="all" href="/assets/css/stylesheet.css" />
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+    <script type="text/javascript" language="javascript">
+    // <![CDATA[
+    function decode(encoded) {
+      // eMail Obfuscator Script 2.1 by Tim Williams - freeware
+      cipher = "ZabcXYdeWVfUTghSiRQjklPmONnMoLpqKJrIHstGuFvEwDxCyBz1A234568790"
+      shift=encoded.length
+      link=""
+      for (i=0; i<encoded.length; i++){
+        if (cipher.indexOf(encoded.charAt(i))==-1){
+          ltr=encoded.charAt(i)
+          link+=(ltr)
+        } else {
+          ltr = (cipher.indexOf(encoded.charAt(i))-shift+cipher.length) % cipher.length
+          link+=(cipher.charAt(ltr))
+        }
+      }
+      return link;
+    }
+    // ]]>
+    </script>
+  </head>
+  <body>
+    <div id="header">
+      <div class="logo">
+        <img src="/assets/images/logo.png" alt="(Ons logo)" />
+      </div>
+      <div class="title">
+        <h1>wandelsportvereniging Kinderdijk</h1>
+      </div>
+      {% include navigation.html %}
+    </div>
+    <div id="content">
+      <h2>{{ page.title }}</h2>
+      {{ content }}
+    </div>
+    <div id="footer">
+      <p>&copy; 2002 - {{ site.time | date: "%Y" }} wandelsportvereniging Kinderdijk</p>
+    </div>
+  </body>
+</html>

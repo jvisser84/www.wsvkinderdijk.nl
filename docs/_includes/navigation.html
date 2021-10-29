@@ -1,0 +1,19 @@
+<div class="menu">
+  <ul class="nav">
+{% for item in site.data.navigation %}
+    <li class="any {% if page.url == item.link %}current{% endif %}">
+      <a class="content" href="{{ item.link }}">
+        {{ item.name }}
+      </a>
+    </li>
+{% endfor %}
+    <li class="any">
+      <hr class="seperator" />
+    </li>
+    <li class="any">
+      <a class="link" href="https://nl-nl.facebook.com/wandelsportvereniging.kinderdijk/" target="_blank">
+        Facebook
+      </a>
+    </li>
+  </ul>
+</div>

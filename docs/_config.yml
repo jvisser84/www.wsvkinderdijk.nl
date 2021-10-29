@@ -1,0 +1,5 @@
+# Jekyll config file
+
+url: "https://www.wsvkinderdijk.nl"
+baseurl: "/"
+markdown: kramdown
