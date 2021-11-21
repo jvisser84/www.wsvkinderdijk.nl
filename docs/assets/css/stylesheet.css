@@ -31,6 +31,9 @@ body * {
 	border:0;
 }
 
+#dummy {
+  display: none;
+}
 
 /*@media handheld,screen,tv*/
 @media all {

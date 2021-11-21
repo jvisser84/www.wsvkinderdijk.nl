@@ -15,8 +15,11 @@ Startplaats:   | IJsclub(gebouw) de Thialf, De Hoop 13, Krimpen aan de Lek
 Starttijden:   | Vanaf 8:00 uur. Binnen zijn om 17.00 uur.
 Inschrijfgeld: | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden);
                | &euro; 4,00 (voor niet-leden)
-Inlichtingen:  | mevr. M. Visser-Ek
+Inlichtingen:  | mevr. M. Visser-Ek - tel. +31 (0)78-<span id="dummy">DUMMY</span>6158<span id="dummy">DUMMY</span>842
+E-mail:        | <span id="mail-algemeen"></span>
 
 Hoe komt u in Krimpen aan de Lek:  
 Ligt aan de provinciale weg (N210) tussen Schoonhoven en Krimpen aan de IJssel.  
 U kunt ook via Kinderdijk en daarna overvaren naar Krimpen aan de Lek.
+
+{% include email_algemeen.html %}
