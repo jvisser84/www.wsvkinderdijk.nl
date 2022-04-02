@@ -16,7 +16,7 @@ En in dit unieke gebied hebben wij voor u prachtige wandeltochten uitgezet.
 Organisatie:        | Wandelsportvereniging Kinderdijk
 Afstanden:          | 5 - 10 - 15 - 20 - 30 - 40 - 50 km
 Startplaats:        | Partycentrum de Klok, Molenstraat 117, Kinderdijk
-Starttijden:        | Vanaf 7:30 uur. Binnen zijn om 17.00 uur.
+Start- & eindtijd:  | Vanaf 7:30 uur. Binnen zijn om 17.00 uur.
 Inschrijfgeld:      | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden);
                     | &euro; 4,00 (voor niet-leden)
 Inlichtingen:       | mevr. H. Sinterniklaas-Dubbeldam - tel. +31 (0)184-<span id="dummy">DUMMY</span>684<span id="dummy">DUMMY</span>375
