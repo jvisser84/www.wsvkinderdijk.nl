@@ -17,6 +17,8 @@ Inschrijfgeld:     | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden
                    | &euro; 4,00 (voor niet-leden)
 Inlichtingen:      | mevr. M. Visser-Ek - tel. +31 (0)78-<span id="dummy">DUMMY</span>6158<span id="dummy">DUMMY</span>842
 E-mail:            | <span id="mail-algemeen"></span>
+Parkeergelegenheid: | Parkeren bij Sporthal de Walvis, Groenland 37 in Krimpen aan de Lek.
+                    | Vanaf daar is het een klein stukje lopen naar de startplaats.
 
 Hoe komt u in Krimpen aan de Lek:  
 Ligt aan de provinciale weg (N210) tussen Schoonhoven en Krimpen aan de IJssel.  
