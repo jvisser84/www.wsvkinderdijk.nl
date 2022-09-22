@@ -17,8 +17,8 @@ Bekijk ons wandelprogramma en zie waar wij heen gaan.Gaan we met een bus dan zij
 
 Bent u lid dan is de eigen bijdrage per wandeltocht &euro; 3,00. De *Molenwaardtocht* en de *Loetbostocht* zijn voor leden van onze vereniging gratis.
 
-Geen lid en toch graag naar die mooie wandeling? De eerste keer is het &euro; 11,50,  
-daarna zijn de kosten ca. &euro; 15,50 per persoon. (incl. inschrijfgeld).
+Geen lid en toch graag naar die mooie wandeling? De eerste keer is het &euro; 15,00,  
+daarna zijn de kosten ca. &euro; 25,00 per persoon. (incl. inschrijfgeld).
 
 ### Lid worden
 De maandcontributie bedraagt &euro; 8,50 per persoon.
