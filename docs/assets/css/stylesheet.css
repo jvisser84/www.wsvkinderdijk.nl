@@ -317,7 +317,7 @@ caption:before {
 
 #content table.activiteiten {}
 #content table.activiteiten .datum {
-	width:6em;
+	width:10em;
 }
 #content table.activiteiten .beschrijving {
 	width:auto;
