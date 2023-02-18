@@ -19,12 +19,11 @@ Startplaats:        | Partycentrum de Klok, Molenstraat 117, Kinderdijk
 Start- & eindtijd:  | Vanaf 7:30 uur. Binnen zijn om 17.00 uur.
 Inschrijfgeld:      | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden);
                     | &euro; 4,00 (voor niet-leden)
-Inlichtingen:       | mevr. H. Sinterniklaas-Dubbeldam - tel. +31 (0)184-<span id="dummy">DUMMY</span>684<span id="dummy">DUMMY</span>375
+Inlichtingen:       | dhr. D. de Ruiter - tel. +31 (0)78-<span id="dummy">DUMMY</span>6917<span id="dummy">DUMMY</span>040
                     | mevr. M. Visser-Ek - tel. +31 (0)78-<span id="dummy">DUMMY</span>6158<span id="dummy">DUMMY</span>842
-E-mail:             | <span id="mail-algemeen"></span> / <span id="mail-secretariaat"></span>
+E-mail:             | <span id="mail-algemeen"></span>
 Parkeergelegenheid: | Gratis parkeren op de GROTE PARKEERPLAATS van IHC,
                     | op uw navigatie kunt u SMITWEG, KINDERDIJK invoeren.
                     | LET OP: parkeren in de wijk en op de Molenstraat is niet toegestaan voor bezoekers!
 
 {% include email_algemeen.html %}
-{% include email_secretariaat.html %}

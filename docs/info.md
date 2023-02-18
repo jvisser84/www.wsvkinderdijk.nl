@@ -23,9 +23,6 @@ daarna zijn de kosten ca. &euro; 25,00 per persoon. (incl. inschrijfgeld).
 ### Lid worden
 De maandcontributie bedraagt &euro; 8,50 per persoon.
 
-Aanmeldingen en/of inlichtingen bij onze secretaresse mevr. H. Sinterniklaas-Dubbeldam.  
-Telefoonnummer: +31 (0)184-<span id="dummy">DUMMY</span>684<span id="dummy">DUMMY</span>375  
-E-mail: <span id="mail-algemeen"></span> / <span id="mail-secretariaat"></span>
+Aanmeldingen en/of inlichtingen via e-mail: <span id="mail-algemeen"></span>
 
 {% include email_algemeen.html %}
-{% include email_secretariaat.html %}
