@@ -1,0 +1,341 @@
+/* Start of CMSMS style sheet 'pagina' */
+@charset "UTF-8";
+@namespace "http://www.w3.org/1999/xhtml";
+
+/*Enforce property's value inherit, when it inherited according to CSS2.1. Thereby overriding userstyle-sheets.*/
+body * {
+	border-collapse:inherit;
+	border-spacing:inherit;
+	caption-side:inherit;
+	empty-cells:inherit;
+	/*cursor:inherit;*/
+	color:inherit;
+	direction:inherit;
+	font:inherit;/*font-family,font-size,font-style,font-variant,font-weight,line-height*/
+	letter-spacing:inherit;
+	list-style:inherit;/*list-style-image,list-style-position,list-style-type*/
+	quotes:inherit;
+	text-align:inherit;
+	text-decoration:inherit;
+	text-indent:inherit;
+	text-transform:inherit;
+	visibility:inherit;
+	white-space:inherit;
+	orphans:inherit;
+	widows:inherit;
+	word-spacing:inherit;
+
+
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+#dummy {
+  display: none;
+}
+
+/*@media handheld,screen,tv*/
+@media all {
+
+html {
+	display:block;
+	width:100%;
+	padding:0;
+}
+body {
+	display:block;
+	max-width:50em;
+	min-width:320px;
+	margin:0 auto;
+	outline:0.5em solid #0ad;
+}
+
+
+#header {
+	display:block;
+	clear:both;
+	height:auto;
+	overflow:hidden;
+	padding:0 0 1ex 0;
+	border-bottom:0.5em solid #0ad;
+}
+
+
+#header div.logo img {
+	display:block;
+	min-height:100px;
+	max-height:200px;
+	width:100%;
+	height:auto;
+}
+
+#header div.logo {
+	overflow:hidden;
+	display:block;
+	height:100%;
+	max-width:25%;
+	width:auto;
+	float:left;
+	clear:left;
+	margin:0 2.5ex 0 0;
+}
+#header div.title {
+	display:block;
+	overflow:hidden;
+	clear:right;
+	height:auto;
+	font:normal small-caps 700 25pt/normal sans-serif;
+	margin:1ex;
+}
+#header div.title h1 {
+	display:inline;
+	font:inherit;
+}
+
+#header ul.nav {
+	display:block;
+	/*float:left;
+	height:100%;*/
+}
+
+#header ul.nav > li {
+	display:list-item;
+	list-style:none;
+	float:left;
+}
+#header ul.nav > li > hr.seperator:after {
+	display:block;
+	padding:0.5em 0.5em;
+	content:"\200b";
+}
+#header ul.nav > li > a {
+	display:block;
+	text-decoration:none;
+	padding:0.5em 1em;
+}
+#header ul.nav > li.haschildren > a:after {
+	content:"...";
+}
+
+#header ul.nav li.current.haschildren ul {
+	display:block;
+	visibility:visible;
+	position:relative;
+	z-index:auto;
+
+	margin:0 0 0 1em;
+}
+#header ul.nav > li > ul {
+	display:block;
+	visibility:hidden;
+	position:absolute;
+	z-index:1;
+}
+#header ul.nav li li > a {
+	display:block;
+	text-decoration:none;
+	padding:0.25em 0.5em;
+}
+
+
+
+
+#content {
+	display:block;
+	clear:both;
+	padding:1em 1em;
+}
+
+#footer {
+	clear:both;
+	border-top:0.5em solid #0ad;
+}
+
+}
+
+
+
+
+/*Kleuren achtergrond en voorgrond, en inline delen.*/
+@media all {
+html, #header ul.nav > li {
+	background-color:#0cf;
+	font:normal normal 700 11pt/normal sans-serif;
+	color:#039;
+}
+#header ul.nav > li > ul {
+	background-color:#ffc;
+	color:#039;
+}
+#header ul.nav li.current ,
+ #header ul.nav li.parent {
+	background-color:#3df;
+	color:#03f;
+}
+body {
+	font:normal normal 400 11pt/normal sans-serif;
+	color:#000;
+
+	text-align:left;
+}
+#header, #content, #footer,
+ #header ul.nav > li > hr.seperator {
+	background-color:#fff;
+}
+#content *:link, #content *:visited {
+	outline:#039 solid thin;
+}
+#content *:link {
+	outline-color:#03f;
+}
+#content a:link, #content a:visited {
+	color:#039;
+	text-decoration:none;
+	outline:none;
+}
+#content a:link {
+	color:#03f;
+}
+
+#content p,#content div,#content li,#content td,#content th,#content caption,#content dd,#content dt {
+	margin:0;
+}
+#content p     + p , #content p     + ul, #content p     + ol, #content p     + table ,
+#content ul    + p , #content ul    + ul, #content ul    + ol, #content ul    + table ,
+#content ol    + p , #content ol    + ul, #content ol    + ol, #content ol    + table ,
+#content table + p , #content table + ul, #content table + ol, #content table + table {
+	margin-top:1ex;
+}
+
+#content h1,#content h2,#content h3,#content h4,#content h5,#content h6 {
+	font:normal normal 700 11pt/normal sans-serif;
+
+	text-align:left;
+}
+#content h1 { font-size:2.375em; margin:0.666em 0 }
+#content h2 { font-size:1.750em; margin:0.750em 0 }
+#content h3 { font-size:1.333em; margin:0.800em 0 }
+#content h4 { font-size:1.055em; margin:0.833em 0 }
+#content h5 { font-size:0.870em; margin:0.857em 0 }
+#content h6 { font-size:0.746em; margin:0.875em 0 }
+
+
+#content br:before {/*from css2.1 HTML default*/
+	content: "\a";
+	white-space: pre-line;
+}
+#content b,#content  strong,#content  th {
+	font-weight:bolder;
+}
+#content i,#content em,#content caption {
+	font-style:italic;
+}
+
+/*
+center          { text-align: center }*/
+
+/*Formulier focus stuff*/
+/*textarea:focus          { outline: #3df solid medium; }*/
+
+
+#content div,
+#content dd,#content  dl,#content  dt,
+#content h1,#content  h2,#content  h3,#content  h4,#content  h5,#content  h6,
+#content p,
+#content hr { display: block}
+#content ol,#content  ul {
+	display:block;
+	margin:0 0 0 2em;
+	padding:0;
+	border:0;
+}
+#content li {
+	margin:0;
+	padding:0;
+	border:0;
+	display:list-item;
+	list-style:inherit;/*ol/ul have list-style instead*/
+}
+#content ol {list-style:decimal outside;/*inherited by li*//*counter's scope*/}
+#content ul {list-style:disc outside;/*inherited by li*/}
+
+#content li.thumb {
+	list-style:none;
+}
+
+table {
+	display: table;
+	width:100%;
+	border-style:none;
+	border-collapse: collapse;
+	padding:0;
+}
+thead,tbody,tfoot {
+	border-style:none;
+	vertical-align:top;
+	padding:0;
+}
+tr {
+	display: table-row;
+	border-style:none;
+	vertical-align: inherit;
+	padding:0;
+}
+thead {
+	display: table-header-group;
+	border-bottom:#000 solid thin;
+}
+tbody { display: table-row-group; }
+tfoot {
+	display: table-footer-group;
+	border-top:#000 solid thin;
+}
+/*col {
+	display: table-column;
+}
+colgroup {
+	display: table-column-group;
+}*/
+td, th {
+	display: table-cell;
+	border-style:none;
+	vertical-align: inherit;
+	padding:0.5ex;
+}
+caption {
+	display: table-caption;
+	caption-side:top;
+	text-align:center!important;
+
+}
+caption:before {
+	content:"Tabel: "
+}
+
+
+
+#content table.activiteiten {}
+#content table.activiteiten .datum {
+	width:10em;
+}
+#content table.activiteiten .beschrijving {
+	width:auto;
+}
+#content table.activiteiten caption {
+}
+
+del {
+	text-decoration: line-through;
+}
+
+
+@media screen and (min-width: 54em) {/*body_max-width+4em*/
+html { background: #0cf url("/assets/images/bg.jpg") no-repeat fixed center center; }
+#content, #footer { background-color: rgba(100%,100%,100%,0.666); }
+#header { background-color: #fff; }
+}
+/*TODO @media screen and (resolution: 2dppx) {
+html { background: #0cf url("/assets/images/bg-2dppx.jpg") no-repeat fixed center center; }
+}*/
+/* End of 'pagina' */

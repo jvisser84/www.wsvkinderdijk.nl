@@ -1,0 +1,26 @@
+---
+layout: default
+title: Wandelprogramma
+permalink: /wandelprogramma
+---
+<table class="activiteiten" border="0">
+  <caption>Programma 2023 (wijzigingen voorbehouden)</caption>
+  <thead>
+    <tr>
+      <th class="datum">Datum</th>
+      <th class="beschrijving">Beschrijving</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for item in site.data.wandelprogramma %}
+    <tr>
+      <td>{{ item.date }}</td>
+      <td>{{ item.name }}, {{ item.location }}</td>
+    </tr>
+{% endfor %}
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
