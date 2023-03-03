@@ -20,7 +20,6 @@ Start- & eindtijd:  | Vanaf 7:30 uur. Binnen zijn om 17.00 uur.
 Inschrijfgeld:      | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden);
                     | &euro; 4,00 (voor niet-leden)
 Inlichtingen:       | dhr. D. de Ruiter - tel. +31 (0)78-<span id="dummy">DUMMY</span>6917<span id="dummy">DUMMY</span>040
-                    | mevr. M. Visser-Ek - tel. +31 (0)78-<span id="dummy">DUMMY</span>6158<span id="dummy">DUMMY</span>842
 E-mail:             | <span id="mail-algemeen"></span>
 Parkeergelegenheid: | Gratis parkeren op de GROTE PARKEERPLAATS van IHC,
                     | op uw navigatie kunt u SMITWEG, KINDERDIJK invoeren.
