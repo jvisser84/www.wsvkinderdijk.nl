@@ -6,3 +6,5 @@ permalink: /
 w.s.v. Kinderdijk is een wandelsportvereniging die al sinds 1952 aktief is. De leden nemen deel aan wandeltochten in Nederland en Belgi&euml;. Daarnaast organiseren wij zelf ook drie wandeltochten, namelijk: de [Molenwaardtocht](/molenwaardtocht) in Kinderdijk, de [Loetbostocht](/loetbostocht) in Krimpen aan de Lek en de Midweek Poldertocht in Noordeloos.
 
 Voor meer informatie over onze vereniging klikt u op [Info](/info).
+
+![Flyer Loetbostocht 2023](/assets/images/Flyer_Los_Loet_2023.jpg "Flyer Loetbostocht 2023")
