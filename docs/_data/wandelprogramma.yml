@@ -43,7 +43,7 @@
 - name: Heidetocht
   location: Ede (Gld.)
   date: 19 augustus 2023
-- name: Loetbostocht
+- name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
   date: 16 september 2023
 - name: Fred v/d Poltocht
@@ -67,3 +67,6 @@
 - name: Kersttocht
   location: Alblasserdam
   date: 9 december 2023
+- name: Molenwaardtocht (wsv Kinderdijk)
+  location: Kinderdijk
+  date: 1 juni 2024
