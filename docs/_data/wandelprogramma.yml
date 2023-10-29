@@ -1,63 +1,3 @@
-- name: Winterserietocht
-  location: Leerdam
-  date: 14 januari 2023
-- name: Winterserietocht
-  location: Breda
-  date: 4 februari 2023
-- name: Jaarlijkse Algemene Ledenvergadering
-  location: Alblasserdam
-  date: 25 februari 2023
-- name: 34<sup>e</sup> Gertrudistocht
-  location: Bergen op Zoom
-  date: 18 maart 2023
-- name: Paastocht (2<sup>e</sup> Paasdag)
-  location: Bornem (B)
-  date: 10 april 2023
-- name: Midweek Poldertocht (SWD-NGD-Kinderdijk)
-  location: Noordeloos
-  date: 12 april 2023
-- name: Bevrijdingstocht
-  location: Dordrecht
-  date: 5 mei 2023
-- name: 29<sup>e</sup> Bosbesjestocht
-  location: Groesbeek
-  date: 6 mei 2023
-- name: Seuter Zomerwandeltocht
-  location: "'s-Gravendeel"
-  date: 13 mei 2023
-- name: 24<sup>e</sup> Tochten rond Pinksteren
-  location: Ossendrecht
-  date: 27 mei 2023
-- name: Molenwaardtocht (wsv Kinderdijk)
-  location: Kinderdijk
-  date: 3 juni 2023
-- name: 66<sup>e</sup> Marijketocht
-  location: Barendrecht
-  date: 10 juni 2023
-- name: 60<sup>e</sup> Graafstroomtocht
-  location: Oud-Alblas
-  date: 17 juni 2023
-- name: Verenigingsdag
-  location: Aalst (Gld.)
-  date: 8 juli 2023
-- name: Heidetocht
-  location: Ede (Gld.)
-  date: 19 augustus 2023
-- name: Loetbostocht (wsv Kinderdijk)
-  location: Krimpen a/d Lek
-  date: 16 september 2023
-- name: Fred v/d Poltocht
-  location: Dordrecht
-  date: 23 september 2023
-- name: "Memoriatocht Walcheren '40-'45"
-  location: Westkapelle
-  date: 30 september 2023
-- name: Vakantiereis Zwarte Woud
-  location: Duitsland
-  date: 9 t/m 14 oktober 2023
-- name: 17<sup>e</sup> Snerttocht
-  location: Bleskensgraaf
-  date: 28 oktober 2023
 - name: Ritselende Bla(de)rentocht
   location: Pulderbos (B)
   date: 4 november 2023
@@ -67,6 +7,30 @@
 - name: Kersttocht
   location: Alblasserdam
   date: 9 december 2023
+- name: Oliebollentocht
+  location: Dordrecht
+  date: 6 januari 2024
+- name: Koek en Zopie wandeltocht
+  location: Giessenburg
+  date: 20 januari 2024
+- name: Rhoonse Griendentocht
+  location: Rhoon
+  date: 27 januari 2024
+- name: Snerttocht
+  location: Prinsenbeek
+  date: 17 februari 2024
+- name: Jaarlijkse Algemene Ledenvergadering
+  location: n.t.b.
+  date: 24 februari 2024
+- name: 6<sup>e</sup> Midden-Veluwetocht
+  location: Ugchelen (Gld.)
+  date: 2 maart 2024
+- name: Midweek Poldertocht (SWD-NGD-Kinderdijk)
+  location: Noordeloos
+  date: 10 april 2024
 - name: Molenwaardtocht (wsv Kinderdijk)
   location: Kinderdijk
   date: 1 juni 2024
+- name: Loetbostocht (wsv Kinderdijk)
+  location: Krimpen a/d Lek
+  date: 21 september 2024

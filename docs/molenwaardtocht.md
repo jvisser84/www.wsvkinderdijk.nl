@@ -17,10 +17,9 @@ Organisatie:        | Wandelsportvereniging Kinderdijk
 Afstanden:          | 5 - 10 - 15 - 20 - 30 - 40 - 50 km
 Startplaats:        | Partycentrum de Klok, Molenstraat 117, Kinderdijk
 Start- & eindtijd:  | Vanaf 7:30 uur. Binnen zijn om 18.00 uur.
-Inschrijfgeld:      | &euro; 3,00 (leden erkende (binnen- en buitenlandse) bonden);
-                    | &euro; 4,00 (voor niet-leden)
-Inlichtingen:       | dhr. D. de Ruiter - tel. +31 (0)78-<span id="dummy">DUMMY</span>6917<span id="dummy">DUMMY</span>040
-E-mail:             | <span id="mail-algemeen"></span>
+Inschrijfgeld:      | &euro; 3,50 (leden erkende (binnen- en buitenlandse) bonden);
+                    | &euro; 4,50 (voor niet-leden)
+Inlichtingen:       | <span id="mail-algemeen"></span>
 Parkeergelegenheid: | Gratis parkeren op de GROTE PARKEERPLAATS van IHC,
                     | op uw navigatie kunt u SMITWEG, KINDERDIJK invoeren.
                     | LET OP: parkeren in de wijk en op de Molenstraat is niet toegestaan voor bezoekers!
