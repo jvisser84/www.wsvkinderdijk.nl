@@ -11,7 +11,7 @@ Het Loetbos, genoemd naar het riviertje “De Loet”. Een aangelegd polderbos m
 
 Organisatie:       | Wandelsportvereniging Kinderdijk
 Afstanden:         | 5 - 10 - 15 - 20 - 30 km
-Startplaats:       | IJsclub(gebouw) de Thialf, De Hoop 13, Krimpen aan de Lek
+Startplaats:       | IJsclub(gebouw) de Thialf, De Hoop 31, Krimpen aan de Lek
 Start- & eindtijd: | Vanaf 8:00 uur. Binnen zijn om 17.00 uur.
 Inschrijfgeld:     | &euro; 3,50 (leden erkende (binnen- en buitenlandse) bonden);
                    | &euro; 4,50 (voor niet-leden)
