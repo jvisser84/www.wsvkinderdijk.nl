@@ -21,7 +21,7 @@ Geen lid en toch graag naar die mooie wandeling? De eerste keer is het &euro; 15
 daarna zijn de kosten ca. &euro; 25,00 per persoon. (incl. inschrijfgeld).
 
 ### Lid worden
-De maandcontributie bedraagt &euro; 8,50 per persoon.
+De maandcontributie bedraagt &euro; 10,00 per persoon.
 
 Aanmeldingen en/of inlichtingen via e-mail: <span id="mail-algemeen"></span>
 
