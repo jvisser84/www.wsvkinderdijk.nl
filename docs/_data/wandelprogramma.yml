@@ -1,45 +1,45 @@
-- name: Koek en Zopie wandeltocht
-  location: Giessenburg
-  date: 20 januari 2024
-- name: Rhoonse Griendentocht
-  location: Rhoon
-  date: 27 januari 2024
-- name: Jaarlijkse Algemene Ledenvergadering
-  location: Alblasserdam
-  date: 17 februari 2024
-- name: 52<sup>e</sup> Winterseriewandeling
-  location: Breda
-  date: 2 maart 2024
-- name: Winterserie
-  location: Leerdam
-  date: 16 maart 2024
-- name: Paastocht
-  location: Lommel (BE)
-  date: 1 april 2024
-- name: Molenlanden wandeling (SWD-NGD-Kinderdijk)
-  location: Noordeloos
-  date: 10 april 2024
-- name: Alpe d&#39;HuZes voorjaarstocht
-  location: Dordrecht
-  date: 20 april 2024
-- name: Eigen wandeling
-  location: Vuren
-  date: 4 mei 2024
-- name: 67<sup>e</sup> Marijketocht
-  location: Barendrecht
-  date: 25 mei 2024
-- name: Molenwaardtocht (wsv Kinderdijk)
-  location: Kinderdijk
-  date: 1 juni 2024
-- name: Graafstroomtocht
-  location: Oud-Alblas
-  date: 15 juni 2024
-- name: Dromedaristocht
-  location: Enkhuizen
-  date: 6 juli 2024
-- name: 4<sup>e</sup> Duin en Strandtocht
+- name: Midzomertocht
+  location: Zoersel (BE)
+  date: 27 juli 2024
+- name: 4<sup>e</sup> Duin- en Strandtocht
   location: Vlissingen
   date: 17 augustus 2024
+- name: Omloop Vestingstad
+  location: Hulst
+  date: 7 september 2024
 - name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
   date: 21 september 2024
+- name: 53<sup>e</sup> Markdalwandeltocht
+  location: Breda
+  date: 28 september 2024
+- name: Pater Vostocht
+  location: Schaijk (nbr)
+  date: 12 oktober 2024
+- name: Snerttocht
+  location: Bleskensgraaf
+  date: 26 oktober 2024
+- name: Speculaastocht
+  location: Hendrik-Ido-Ambacht
+  date: 16 november 2024
+- name: Kempische Herfsttocht
+  location: Wechelerzande (BE)
+  date: 23 november 2024
+- name: Gent bij Nacht
+  location: Gent (BE)
+  date: 14 december 2024
+- name: Oliebollentocht
+  location: Dordrecht
+  date: 4 januari 2025
+- name: Snerttocht
+  location: Prinsenbeek
+  date: 15 februari 2025
+- name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
+  location: Noordeloos
+  date: 9 april 2025
+- name: Molenwaardtocht (wsv Kinderdijk)
+  location: Kinderdijk
+  date: 24 mei 2025
+- name: Loetbostocht (wsv Kinderdijk)
+  location: Krimpen a/d Lek
+  date: 20 september 2025
