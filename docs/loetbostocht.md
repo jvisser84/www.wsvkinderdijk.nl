@@ -3,7 +3,7 @@ layout: default
 title: Loetbostocht
 permalink: /loetbostocht
 ---
-### Zaterdag 21 september 2024
+### Zaterdag 20 september 2025
 
 #### Krimpen aan de Lek
 
