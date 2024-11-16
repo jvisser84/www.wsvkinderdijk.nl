@@ -1,24 +1,3 @@
-- name: Midzomertocht
-  location: Zoersel (BE)
-  date: 27 juli 2024
-- name: 4<sup>e</sup> Duin- en Strandtocht
-  location: Vlissingen
-  date: 17 augustus 2024
-- name: Omloop Vestingstad
-  location: Hulst
-  date: 7 september 2024
-- name: Loetbostocht (wsv Kinderdijk)
-  location: Krimpen a/d Lek
-  date: 21 september 2024
-- name: 53<sup>e</sup> Markdalwandeltocht
-  location: Breda
-  date: 28 september 2024
-- name: Pater Vostocht
-  location: Schaijk (nbr)
-  date: 12 oktober 2024
-- name: Snerttocht
-  location: Bleskensgraaf
-  date: 26 oktober 2024
 - name: Speculaastocht
   location: Hendrik-Ido-Ambacht
   date: 16 november 2024
@@ -31,9 +10,15 @@
 - name: Oliebollentocht
   location: Dordrecht
   date: 4 januari 2025
+- name: Jaarlijkse Algemene Ledenvergadering
+  location: Alblasserdam
+  date: 8 februari 2025
 - name: Snerttocht
   location: Prinsenbeek
   date: 15 februari 2025
+- name: 47<sup>e</sup> Winterseriewandeltocht
+  location: Geldermalsen
+  date: 1 maart 2025
 - name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
   location: Noordeloos
   date: 9 april 2025
