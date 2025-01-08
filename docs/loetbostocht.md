@@ -13,8 +13,8 @@ Organisatie:       | Wandelsportvereniging Kinderdijk
 Afstanden:         | 5 - 10 - 15 - 20 - 30 km
 Startplaats:       | IJsclub(gebouw) de Thialf, De Hoop 31, Krimpen aan de Lek
 Start- & eindtijd: | Starten tussen 8:00 en 13:00 uur. Binnen zijn uiterlijk 17.00 uur.
-Inschrijfgeld:     | &euro; 4,50 (leden erkende (binnen- en buitenlandse) bonden);
-                   | &euro; 5,50 (voor niet-leden)
+Inschrijfgeld:     | &euro; 3,50 (leden erkende (binnen- en buitenlandse) bonden);
+                   | &euro; 4,50 (voor niet-leden)
 Inlichtingen:      | <span id="mail-algemeen"></span>
 Parkeergelegenheid: | Parkeren bij Sporthal de Walvis, Groenland 37 in Krimpen aan de Lek.
                     | Vanaf daar is het een klein stukje lopen naar de startplaats.
