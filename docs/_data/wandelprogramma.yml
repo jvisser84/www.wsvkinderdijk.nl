@@ -1,30 +1,39 @@
-- name: Speculaastocht
-  location: Hendrik-Ido-Ambacht
-  date: 16 november 2024
-- name: Kempische Herfsttocht
-  location: Wechelerzande (BE)
-  date: 23 november 2024
-- name: Gent bij Nacht
-  location: Gent (BE)
-  date: 14 december 2024
-- name: Oliebollentocht
-  location: Dordrecht
-  date: 4 januari 2025
-- name: Jaarlijkse Algemene Ledenvergadering
-  location: Alblasserdam
-  date: 8 februari 2025
-- name: Snerttocht
-  location: Prinsenbeek
-  date: 15 februari 2025
 - name: 47<sup>e</sup> Winterseriewandeltocht
   location: Geldermalsen
   date: 1 maart 2025
+- name: Winterserietocht
+  location: Leerdam
+  date: 15 maart 2025
+- name: Marathonwandeling
+  location: Kasterlee (BE)
+  date: 5 april 2025
 - name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
   location: Noordeloos
   date: 9 april 2025
+- name: Land van Mark en Merkske
+  location: Merksplas (BE)
+  date: 19 april 2025
+- name: 68<sup>e</sup> Marijketocht,
+  location: Barendrecht
+  date: 17 mei 2025
 - name: Molenwaardtocht (wsv Kinderdijk)
   location: Kinderdijk
   date: 24 mei 2025
+- name: Pierentocht
+  location: Halle-Zoersel (BE)
+  date: 29 mei 2025
+- name: Schie- en Delflandtocht
+  location: Schiedam
+  date: 7 juni 2025
+- name: Graafstroomtocht
+  location: Oud-Alblas
+  date: 21 juni 2025
+- name: Verenigingsdag (Info volgt)
+  location: n.n.t.b.
+  date: 5 juli 2025
 - name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
   date: 20 september 2025
+- name: Vakantiereis
+  location: Duitsland/Zwitserland
+  date: 27 sept. t/m 4 okt. 2025
