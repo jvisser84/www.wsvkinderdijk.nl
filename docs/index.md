@@ -9,3 +9,4 @@ Voor meer informatie over onze vereniging klikt u op [Info](/info).
 
 ![Flyer Molenwaardtocht 2025](/assets/images/Flyer_MWT_2025.jpg "Flyer Molenwaardtocht 2025")
 
+![Flyer Loetbostocht 2025](/assets/images/Flyer_Loet_2025.jpg "Flyer Loetbostocht 2025")
