@@ -15,7 +15,7 @@ Ieder wandelt de afstand die hij/zij zelf verkiest (meestal keuze 5 – 10 – 1
 ### Zin om eens mee te gaan??
 Bekijk ons wandelprogramma en zie waar wij heen gaan.Gaan we met een bus dan zijn er opstapplaatsen in Nw. Lekkerland, Kinderdijk, Alblasserdam, Papendrecht en Sliedrecht.
 
-Bent u lid dan is de eigen bijdrage per wandeltocht &euro; 3,00. De *Molenwaardtocht* en de *Loetbostocht* zijn voor leden van onze vereniging gratis.
+Bent u lid dan is de eigen bijdrage per wandeltocht &euro; 4,00. De *Molenwaardtocht* en de *Loetbostocht* zijn voor leden van onze vereniging gratis.
 
 Geen lid en toch graag naar die mooie wandeling? De eerste keer is het &euro; 15,00,  
 daarna zijn de kosten ca. &euro; 25,00 per persoon. (incl. inschrijfgeld).
