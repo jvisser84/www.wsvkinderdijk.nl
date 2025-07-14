@@ -1,39 +1,39 @@
-- name: 47<sup>e</sup> Winterseriewandeltocht
-  location: Geldermalsen
-  date: 1 maart 2025
-- name: Winterserietocht
-  location: Leerdam
-  date: 15 maart 2025
-- name: Marathonwandeling
-  location: Kasterlee (BE)
-  date: 5 april 2025
-- name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
-  location: Noordeloos
-  date: 9 april 2025
-- name: Land van Mark en Merkske
-  location: Merksplas (BE)
-  date: 19 april 2025
-- name: 68<sup>e</sup> Marijketocht,
-  location: Barendrecht
-  date: 17 mei 2025
-- name: Molenwaardtocht (wsv Kinderdijk)
-  location: Kinderdijk
-  date: 24 mei 2025
-- name: Pierentocht
-  location: Halle-Zoersel (BE)
-  date: 29 mei 2025
-- name: Schie- en Delflandtocht
-  location: Schiedam
-  date: 7 juni 2025
-- name: Graafstroomtocht
-  location: Oud-Alblas
-  date: 21 juni 2025
-- name: Verenigingsdag
-  location: Info volgt
-  date: 5 juli 2025
+- name: Brabantse Wal tocht
+  location: Hoogerheide
+  date: 16 augustus 2025
+- name: 14<sup>e</sup> Oosterschelde Nazomertocht
+  location: Sint Maartensdijk
+  date: 6 september 2025
 - name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
   date: 20 september 2025
 - name: Vakantiereis
   location: Duitsland/Zwitserland
   date: 27 sept. t/m 4 okt. 2025
+- name: Bruinebonensoeptocht
+  location: Gorinchem
+  date: 18 oktober 2025
+- name: Verenigingsdag (verplaatst)
+  location: Info volgt
+  date: 25 oktober 2025
+- name: Speculaastocht
+  location: Hendrik-Ido-Ambacht
+  date: 15 november 2025
+- name: 48<sup>e</sup> Prinses Marijke Winterserie
+  location: Geldermalsen
+  date: 6 december 2025
+- name: Winterseriewandeltocht
+  location: Breda
+  date: 20 december 2025
+- name: Oliebollentocht
+  location: Dordrecht
+  date: 3 januari 2026
+- name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
+  location: Noordeloos
+  date: 2026
+- name: Molenwaardtocht (wsv Kinderdijk)
+  location: Kinderdijk
+  date: 2026
+- name: Loetbostocht (wsv Kinderdijk)
+  location: Krimpen a/d Lek
+  date: 2026
