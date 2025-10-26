@@ -3,7 +3,7 @@ layout: default
 title: Molenwaardtocht
 permalink: /molenwaardtocht
 ---
-### Zaterdag 2026
+### Zaterdag 6 juni 2026
 
 Nergens in de wereld vind je nog zoveel molens bij elkaar als in het dorpje Kinderdijk.  
 Zo rond 1740 zijn hier 19 molens gebouwd, die tot op heden goed zijn onderhouden en nog in bedrijf zijn.  
@@ -17,8 +17,8 @@ Organisatie:        | Wandelsportvereniging Kinderdijk
 Afstanden:          | 5 - 10 - 15 - 20 - 30 - 40 - 50 km
 Startplaats:        | Partycentrum de Klok, Molenstraat 117, Kinderdijk
 Start- & eindtijd:  | Starten tussen 7:30 uur en 13:00 uur. Binnen zijn uiterlijk 18.00 uur.
-Inschrijfgeld:      | &euro; 3,50 (leden erkende (binnen- en buitenlandse) bonden);
-                    | &euro; 4,50 (voor niet-leden)
+Inschrijfgeld:      | &euro; 4,00 (leden erkende (binnen- en buitenlandse) bonden);
+                    | &euro; 5,00 (voor niet-leden)
 Inlichtingen:       | <span id="mail-algemeen"></span>
 Parkeergelegenheid: | Gratis parkeren op de GROTE PARKEERPLAATS van IHC,
                     | op uw navigatie kunt u SMITWEG, KINDERDIJK invoeren.

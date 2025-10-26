@@ -1,21 +1,3 @@
-- name: Brabantse Wal tocht
-  location: Hoogerheide
-  date: 16 augustus 2025
-- name: 14<sup>e</sup> Oosterschelde Nazomertocht
-  location: Sint Maartensdijk
-  date: 6 september 2025
-- name: Loetbostocht (wsv Kinderdijk)
-  location: Krimpen a/d Lek
-  date: 20 september 2025
-- name: Vakantiereis
-  location: Duitsland/Zwitserland
-  date: 27 sept. t/m 4 okt. 2025
-- name: Bruinebonensoeptocht
-  location: Gorinchem
-  date: 18 oktober 2025
-- name: Verenigingsdag (verplaatst)
-  location: Info volgt
-  date: 25 oktober 2025
 - name: Speculaastocht
   location: Hendrik-Ido-Ambacht
   date: 15 november 2025
@@ -28,12 +10,21 @@
 - name: Oliebollentocht
   location: Dordrecht
   date: 3 januari 2026
+- name: 19<sup>e</sup> Rhoonse Griendentocht
+  location: Rhoon
+  date: 24 januari 2026
+- name: Winterserie
+  location: Leerdam
+  date: 14 februari 2026
+- name: Algemene Leden Vergadering (wsv Kinderdijk)
+  location: n.t.b.
+  date: 21 februari 2026
 - name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
   location: Noordeloos
-  date: 2026
+  date: 8 april 2026
 - name: Molenwaardtocht (wsv Kinderdijk)
   location: Kinderdijk
-  date: 2026
+  date: 6 juni 2026
 - name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
-  date: 2026
+  date: 19 september 2026
