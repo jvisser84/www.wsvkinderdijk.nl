@@ -1,30 +1,45 @@
-- name: Speculaastocht
-  location: Hendrik-Ido-Ambacht
-  date: 15 november 2025
-- name: 48<sup>e</sup> Prinses Marijke Winterserie
-  location: Geldermalsen
-  date: 6 december 2025
-- name: Winterseriewandeltocht
-  location: Breda
-  date: 20 december 2025
-- name: Oliebollentocht
-  location: Dordrecht
-  date: 3 januari 2026
-- name: 19<sup>e</sup> Rhoonse Griendentocht
-  location: Rhoon
-  date: 24 januari 2026
-- name: Winterserie
-  location: Leerdam
-  date: 14 februari 2026
-- name: Algemene Leden Vergadering (wsv Kinderdijk)
-  location: n.t.b.
-  date: 21 februari 2026
+- name: 37<sup>e</sup> Gertrudiusmars
+  location: Bergen op Zoom
+  date: 21 maart 2026
+- name: Paaswandeltocht
+  location: Zaltbommel
+  date: 6 april 2026
 - name: Molenlandenwandeling (SWD-NGD-Kinderdijk)
   location: Noordeloos
   date: 8 april 2026
+- name: Zuid Veluwetocht
+  location: Dieren
+  date: 18 april 2026
+- name: Marche La Gileppe
+  location: Goe (BE)
+  date: 14 mei 2026
+- name: Voorjaar Biesboschtocht
+  location: Dordrecht
+  date: 23 mei 2026
 - name: Molenwaardtocht (wsv Kinderdijk)
   location: Kinderdijk
   date: 6 juni 2026
+- name: Wandeling keuze lid
+  location: Info volgt
+  date: 13 juni 2026
+- name: Jubileumtocht 90 jaar Prins Bernhard
+  location: Leerdam
+  date: 27 juni 2026
+- name: Antitanktrail
+  location: Brasschaat-Antwerpen (BE)
+  date: 11 juli 2026
+- name: Willem de wandelaar
+  location: Huizen
+  date: 15 augustus 2026
+- name: Devel Waalbostocht
+  location: Zwijndrecht
+  date: 29 augustus 2026
+- name: Veluwetocht
+  location: Hattem
+  date: 12 september 2026
 - name: Loetbostocht (wsv Kinderdijk)
   location: Krimpen a/d Lek
   date: 19 september 2026
+- name: Vakantiereis Harz
+  location: (DE)
+  date: 28 september t/m 3 oktober 2026
