@@ -4,6 +4,7 @@ title: Loetbostocht
 permalink: /loetbostocht
 ---
 ### Zaterdag 19 september 2026
+Volgend jaar op zaterdag 18 september 2027.
 
 #### Krimpen aan de Lek
 
