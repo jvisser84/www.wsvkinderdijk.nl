@@ -3,7 +3,7 @@ layout: default
 title: Molenwaardtocht
 permalink: /molenwaardtocht
 ---
-### Zaterdag 2027
+### Zaterdag 5 juni 2027
 
 Nergens in de wereld vind je nog zoveel molens bij elkaar als in het dorpje Kinderdijk.  
 Zo rond 1740 zijn hier 19 molens gebouwd, die tot op heden goed zijn onderhouden en nog in bedrijf zijn.  
