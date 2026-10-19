@@ -7,4 +7,3 @@ w.s.v. Kinderdijk is een wandelsportvereniging die al sinds 1952 aktief is. De l
 
 Voor meer informatie over onze vereniging klikt u op [Info](/info).
 
-![Flyer Loetbostocht 2026](/assets/images/Flyer_Loet_2026.jpg "Flyer Loetbostocht 2026")
